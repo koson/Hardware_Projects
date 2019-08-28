@@ -1,0 +1,14 @@
+Added Component: Designator=P4(HDR1X6m)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=A0 Pin=P4-1
+Added Pin To Net: NetName=A1 Pin=P4-2
+Added Pin To Net: NetName=A2 Pin=P4-3
+Added Pin To Net: NetName=A3 Pin=P4-4
+Added Pin To Net: NetName=A4_SDA Pin=P4-5
+Added Pin To Net: NetName=A5_SCL Pin=P4-6
+Added Member To Class: ClassName=U_Sheet1 Member=Component P4 AD
+Added Room: Name=U_Sheet1
+Added Room: Name=U_Sheet2
